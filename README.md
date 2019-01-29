@@ -159,7 +159,7 @@ Close the monitor:
     rm "~/.hex/cache.ets"
     ```
     
-<b>3. ImportError, cannot import name Monitor
+<b>3. ImportError, cannot import name Monitor</b>
   
   - SOL) We guess the OpenAI gym's interface has been changed, hence can you try to downgrade the gym version?
     ```
